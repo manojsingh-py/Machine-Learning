@@ -4,12 +4,6 @@ A comprehensive machine learning project that explores various data preprocessin
 
 ## Project Structure
 
-### Root Files
-- **abc.py** - Utility script
-- **main.py** - Main entry point
-- **basic.ipynb** - Basic machine learning concepts notebook
-- **placement_project_logistic_regression.ipynb** - Logistic regression example on placement data
-
 ### Data Directory (`data/`)
 Contains various CSV datasets used in the project:
 - `cars.csv` - Cars dataset
